@@ -1,24 +1,15 @@
 
-label: lbl
-
-form: frm
-
-InputText, InputHidden, InputPassword: txt
-
-Radio: rd
-
-Checkbox: chk
-
-Select: sel
-
-TextArea: txa
-
-Submit, Button: btn
-
-Div: div
-
 | Elemento        | Prefijo         | Ejemplo         |
 | --------------- |:---------------:| ---------------:|
-| label           | lbl             | lblNombre       |
-| form            | frm             | frmRegistro     |
-| inputText       | txt             | txtApellido     |
+| Label           | lbl             | lblNombre       |
+| Form            | frm             | frmRegistro     |
+| InputText       | txt             | txtApellido     |
+| InputPassword   | txt             | txtApellido     |
+| InputHidden     | hid             | hidContador     |
+| Radio           | rad             | rdSexo          |
+| Checkbox        | chk             | chkFiltro       |
+| Select          | sel             | selPais         |
+| TextArea        | txa             | txaMensaje      |
+| Button          | btn             | btnEnviar       |
+| Submit          | btn             | btnEnviar       |
+| Div             | div             | divHeader       |
