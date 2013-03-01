@@ -15,3 +15,6 @@
 | Div             | div             | divHeader       |
 | UL              | ul              | ulMenu          |
 | LI              | li              | liItem          |
+| Table           | tbl             | tblTotales      |
+| TR              | tr              | trFila          |
+| TD              | td              | tdColumna       |
