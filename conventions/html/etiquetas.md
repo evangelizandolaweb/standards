@@ -1,17 +1,17 @@
 
 | Elemento        | Prefijo         | Ejemplo         |
 | --------------- |:---------------:| ---------------:|
-| Label           | lbl             | lblNombre       |
-| Form            | frm             | frmRegistro     |
-| InputText       | txt             | txtApellido     |
+| Form            | frm             | frmRegister     |
+| Label           | lbl             | lblName         |
+| InputText       | txt             | txtLastName     |
 | InputPassword   | txt             | txtPassword     |
-| InputHidden     | hid             | hidContador     |
-| Radio           | rad             | rdSexo          |
-| Checkbox        | chk             | chkFiltro       |
-| Select          | sel             | selPais         |
-| TextArea        | txa             | txaMensaje      |
-| Button          | btn             | btnEnviar       |
-| Submit          | sbm             | sbmEnviar       |
+| InputHidden     | hid             | hidCounter      |
+| Radio           | rad             | rdSex           |
+| Checkbox        | chk             | chkFilter       |
+| Select          | sel             | selCountry      |
+| TextArea        | txa             | txaMessage      |
+| Submit          | sbm             | sbmSend         |
+| Button          | btn             | btnCancel       |
 | Div             | div             | divHeader       |
 | UL              | ul              | ulMenu          |
 | LI              | li              | liElemento      |
