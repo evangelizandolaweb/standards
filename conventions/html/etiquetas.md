@@ -16,5 +16,5 @@
 | UL              | ul              | ulMenu          |
 | LI              | li              | liElement       |
 | Table           | tbl             | tblTotals       |
-| TR              | tr              | trFila          |
-| TD              | td              | tdColumna       |
+| TR              | tr              | trRow           |
+| TD              | td              | tdColumn        |
