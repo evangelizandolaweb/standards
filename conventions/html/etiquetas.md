@@ -6,7 +6,7 @@
 | InputText       | txt             | txtLastName     |
 | InputPassword   | txt             | txtPassword     |
 | InputHidden     | hid             | hidCounter      |
-| Radio           | rad             | rdSex           |
+| Radio           | rad             | radSex          |
 | Checkbox        | chk             | chkFilter       |
 | Select          | sel             | selCountry      |
 | TextArea        | txa             | txaMessage      |
@@ -14,7 +14,7 @@
 | Button          | btn             | btnCancel       |
 | Div             | div             | divHeader       |
 | UL              | ul              | ulMenu          |
-| LI              | li              | liElemento      |
-| Table           | tbl             | tblTotales      |
+| LI              | li              | liElement       |
+| Table           | tbl             | tblTotals       |
 | TR              | tr              | trFila          |
 | TD              | td              | tdColumna       |
