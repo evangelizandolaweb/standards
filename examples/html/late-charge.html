@@ -7,8 +7,18 @@
 <body>
 
     <!-- Código -->
-    <img data-source="element/product/777.jpg" src="blank.gif" alt="nombre de la imagen">
+    <img alt="nombre de la imagen" class="load" data-source="../img/1.png" height="380" src="../img/blank.gif" width="625">
     <!-- Fin de Código -->
+
+    <script type="text/javascript">
+        console.time('carga'); // codigo que no interviene en la funcionalidad
+        window.onload = function lateCharge(argument) {
+            console.timeEnd('carga'); // codigo que no interviene en la funcionalidad
+            var $img = document.getElementsByClassName('load')[0];
+            $img.setAttribute("src", $img.getAttribute('data-source'));
+            $img.removeAttribute("data-source");
+        }
+    </script>
 
 </body>
 </html>
