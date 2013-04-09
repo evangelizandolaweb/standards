@@ -13,8 +13,8 @@
 | Submit          | sbm             | sbmSend         |
 | Button          | btn             | btnCancel       |
 | Div             | div             | divHeader       |
-| UL              | ul              | ulMenu          |
-| LI              | li              | liElement       |
 | Table           | tbl             | tblTotals       |
 | TR              | tr              | trRow           |
 | TD              | td              | tdColumn        |
+| UL              | ul              | ulMenu          |
+| LI              | li              | liElement       |
