@@ -12,6 +12,7 @@
 | TextArea        | txa             | txaMessage      |
 | Submit          | sbm             | sbmSend         |
 | Button          | btn             | btnCancel       |
+| File            | fil             | filPhoto        |
 | Div             | div             | divHeader       |
 | Table           | tbl             | tblTotals       |
 | TR              | tr              | trRow           |
